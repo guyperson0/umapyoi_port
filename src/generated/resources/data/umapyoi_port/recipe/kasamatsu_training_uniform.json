@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blue_wool"
+    },
+    "J": {
+      "item": "umapyoi:jewel"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "BJB",
+    "BWB",
+    "BWB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "umapyoi_port:kasamatsu_training_uniform"
+  }
+}

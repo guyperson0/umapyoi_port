@@ -1,0 +1,26 @@
+{
+  "identifier": "umapyoi_addon:g_t_karine",
+  "maxProperty": [
+    18,
+    18,
+    18,
+    18,
+    18
+  ],
+  "property": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "propertyRate": [
+    10,
+    20,
+    10,
+    0,
+    0
+  ],
+  "ranking": "ssr",
+  "uniqueSkill": "umapyoi:basic_pace"
+}

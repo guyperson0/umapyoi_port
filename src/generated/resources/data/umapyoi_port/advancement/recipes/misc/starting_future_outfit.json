@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "get_jewel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "umapyoi:jewel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "umapyoi_port:starting_future_outfit"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "get_jewel"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "umapyoi_port:starting_future_outfit"
+    ]
+  }
+}

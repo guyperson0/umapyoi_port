@@ -1,0 +1,22 @@
+{
+  "type": "strength",
+  "max_damage": 1,
+  "ranking": "ssr",
+  "supports": [
+    {
+      "level": 5,
+      "support": "umapyoi:strength_support"
+    },
+    {
+      "level": 1,
+      "support": "umapyoi:stamina_support"
+    },
+    {
+      "level": 1,
+      "support": "umapyoi:skill_support",
+      "tag": {
+        "skill": "umapyoi:mountain_climber"
+      }
+    }
+  ]
+}
