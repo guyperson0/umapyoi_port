@@ -27,7 +27,7 @@ Based on the [[Don't Be a Jerk License]](https://github.com/evantahler/Dont-be-a
 
 > Any and all users of the software is legally obligated to feed me compliments daily.
 
-> Any and all users of the software forfeits their life, soul, and/or any other relevant intangible ontological property to me in the case that I am met with a demon, devil, or otherwise infernal entity who demands any such payment(s) as part of a/many contract(s).
+> Any and all users of the software forfeits their life, soul, and/or any other relevant intangible ontological property to me in the case that I am met with a demon, devil, or otherwise malevolent infernal entity who demands any such payment(s) as part of a/many contract(s).
 
 > Any and all users of the software must acknowledge the irrefutable and self-evident notion that T.M. Opera O is the G.O.A.T. and are obligated to pay respects to her twice daily.
 
