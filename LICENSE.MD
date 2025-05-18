@@ -7,9 +7,13 @@ Based on the [[Don't Be a Jerk License]](https://github.com/evantahler/Dont-be-a
 - _I_ refers to the creator(s) of the software
 - _You_ refers to the user(s) of the software
 
-> If you paid for this software, you got scammed.
+
+> If you paid for this software, you got scammed and that's not my problem whatsoever.
+
 
 > You can do whatever you want with the parts of the software that belong to / are credited to me as long as it's not horrifically evil. Stuff that doesn't belong to me is stuff you're going to have to take up with the respective owners. I am not responsible for any crimes you commit using this software.
+
+> If some part of the software belongs to you and you want it removed just tell me pleae don't sue me please please please please please
 
 > I am not responsible for anything that goes wrong in using this software. If your computer explodes, that's a skill issue.
 
@@ -17,11 +21,13 @@ Based on the [[Don't Be a Jerk License]](https://github.com/evantahler/Dont-be-a
 
 > I am the master of my own destiny and am under no obligation to fix or add anything, even if I end up doing so anyways due to my extreme susceptibility to peer pressure and non-existent backbone.
 
+> You're not allowed to use this software if you're mean.
+
 > I am literally guyperson1. I'm a little guy. I'm just a little guy, and it's also my birthday, I'm a little birthday boy, don't be mean to me.
 
 > Any and all users of the software is legally obligated to feed me compliments daily.
 
-> Any and all users of the software forfeits their life and/or soul to me in the case that I am met with a demon, devil, or otherwise infernal entity who demands any such payment(s) as part of a/many contract(s).
+> Any and all users of the software forfeits their life, soul, and/or any other relevant intangible ontological property to me in the case that I am met with a demon, devil, or otherwise infernal entity who demands any such payment(s) as part of a/many contract(s).
 
 > Any and all users of the software must acknowledge the irrefutable and self-evident notion that T.M. Opera O is the G.O.A.T. and are obligated to pay respects to her twice daily.
 
